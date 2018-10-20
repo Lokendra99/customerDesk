@@ -10,8 +10,7 @@ of your platform.
 The Aim of the project is to create an online ticket based support system,
 just like the one present on edwisor.com which should be usable by any
 kind of platform to get support queries from their users and resolve them.
-This project should be a Single Page application with separate backend and frontend. The backend should
-have REST APIs with proper documentation. Take documentation from your previous project as reference.
+This project should be a Single Page application with separate backend and frontend.
 ```
 
 Frontend Technologies allowed -
