@@ -26,7 +26,7 @@ Features of the platform -
 ## 1) Ticket Raising panel - User facing
 ## 2) Ticket Resolution panel - Admin
 
-##### 1) Ticket Raising panel - user end
+### 1) Ticket Raising panel - user end
 ```
 a) A view to login and Signup.
 b) A View to create a ticket. Get all the necessary information like  name, email, phone number,
@@ -37,7 +37,7 @@ well as the answer from admin and person in form of a conversation (chat like UI
 should also have the option to set the status of the ticket to‘open’ or ‘closed’ depending 
 on whether the query is resolved or not.
  ```
-##### 2) Ticket Resolution Panel - Admin end
+### 2) Ticket Resolution Panel - Admin end
 ```
 a) View to Display ticket by status - This should list all tickets received by the support system.
 There should be a drop down menu to filter through the status of ticket. Ticket can be of status 
